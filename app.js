@@ -21,7 +21,7 @@ const apartments = {
     capacity: "2 couchages",
     tone: "terracotta",
     image:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/151%20-%20Le%20Pont%20de%20Pierre%20-%20Bordeaux.jpg?width=1600",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b4/151_-_Le_Pont_de_Pierre_-_Bordeaux.jpg",
     accent: "#c85f45",
     address: "32 rue des Remparts, 33000 Bordeaux",
     wifi: {
