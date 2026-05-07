@@ -104,7 +104,7 @@ Palette proposee :
 - Couleur principale : terracotta
 - Couleurs secondaires : blanc casse, pierre claire, gris chaud
 - Ambiance : chaleureuse, ancree dans Bordeaux
-- Visuel de reference cree pour le projet : `assets/pont-de-pierre-bordeaux.png`
+- Visuel de reference : photo Wikimedia Commons du Pont de Pierre, auteur Patrick Despoix, licence CC BY-SA 3.0
 
 ## 6. Grandes rubriques proposees
 

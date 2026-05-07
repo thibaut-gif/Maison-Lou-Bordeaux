@@ -31,9 +31,9 @@ http://localhost:4173
 - `index.html` - structure de l'application
 - `styles.css` - interface mobile-first
 - `app.js` - contenus et navigation
-- `assets/pont-de-pierre-bordeaux.png` - visuel Pont de Pierre
 
 ## Crédits photos
 
 - Accueil Bordeaux : Alexandre Duret-Lutz, CC BY-SA 2.0, via Wikimedia Commons
+- Le Pont de Pierre : Patrick Despoix, CC BY-SA 3.0, via Wikimedia Commons
 - Le Miroir d'eau : Patrick Despoix, CC BY-SA 4.0, via Wikimedia Commons
