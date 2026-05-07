@@ -20,7 +20,8 @@ const apartments = {
     subtitle: "Appartement - 2 couchages",
     capacity: "2 couchages",
     tone: "terracotta",
-    image: "assets/pont-de-pierre-bordeaux.png",
+    image:
+      "https://commons.wikimedia.org/wiki/Special:FilePath/151%20-%20Le%20Pont%20de%20Pierre%20-%20Bordeaux.jpg?width=1600",
     accent: "#c85f45",
     address: "32 rue des Remparts, 33000 Bordeaux",
     wifi: {
@@ -38,6 +39,11 @@ const photoCredits = [
     label: "Accueil Bordeaux",
     credit: "Alexandre Duret-Lutz, CC BY-SA 2.0",
     url: "https://commons.wikimedia.org/wiki/File:Porte_Cailhau.jpg",
+  },
+  {
+    label: "Le Pont de Pierre",
+    credit: "Patrick Despoix, CC BY-SA 3.0",
+    url: "https://commons.wikimedia.org/wiki/File:151_-_Le_Pont_de_Pierre_-_Bordeaux.jpg",
   },
   {
     label: "Le Miroir d'eau",
